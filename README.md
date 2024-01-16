@@ -1,18 +1,11 @@
 # Repository
-In questa repository sono contenuti i sorgenti usati durante le lezioni
+In questa repository sono contenuti i sorgenti degli esercizi e dei progetti trattati durante le lezioni
 
-
-## Programmazione concorrente
-Programmazione concorrente in ambiente Linux con linguaggio C (system call standard POSIX) e multithread in C#
-
-## Socket
-Piccoli progetti basati su socket TCP e UDP in C#, una parte in versione console, l'altra con interfaccia grafica. Alcuni dei progetti sono multithread
-
-## Script di batch
-Esempi di script di batch per Windows e Linux
-
-## Roadmap
-- [ ] Aggiunta ulteriore materiale
+## Argomenti
+- [ ] Programmazione concorrente
+- [ ] Programmazione multithread
+- [ ] Socket TCP/UDP
+- [ ] Script di batch Windows/Linux
 
 ## Authors and acknowledgment
 Daniele Nicoli

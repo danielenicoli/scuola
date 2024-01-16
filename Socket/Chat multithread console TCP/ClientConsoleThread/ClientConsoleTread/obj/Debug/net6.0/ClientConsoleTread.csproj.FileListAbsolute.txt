@@ -1,0 +1,14 @@
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\bin\Debug\net6.0\ClientConsoleTread.exe
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\bin\Debug\net6.0\ClientConsoleTread.deps.json
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\bin\Debug\net6.0\ClientConsoleTread.runtimeconfig.json
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\bin\Debug\net6.0\ClientConsoleTread.dll
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\bin\Debug\net6.0\ClientConsoleTread.pdb
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\obj\Debug\net6.0\ClientConsoleTread.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\obj\Debug\net6.0\ClientConsoleTread.AssemblyInfoInputs.cache
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\obj\Debug\net6.0\ClientConsoleTread.AssemblyInfo.cs
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\obj\Debug\net6.0\ClientConsoleTread.csproj.CoreCompileInputs.cache
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\obj\Debug\net6.0\ClientConsoleTread.dll
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\obj\Debug\net6.0\refint\ClientConsoleTread.dll
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\obj\Debug\net6.0\ClientConsoleTread.pdb
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\obj\Debug\net6.0\ClientConsoleTread.genruntimeconfig.cache
+C:\Users\DanieleNicoli\source\repos\ClientConsoleTread\ClientConsoleTread\obj\Debug\net6.0\ref\ClientConsoleTread.dll

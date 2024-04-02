@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\TodoApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7C890C-97EA-4285-AC1A-13433630A348}|TodoApi\\TodoApi.csproj|c:\\users\\daniele nicoli\\onedrive - isis j.m.keynes\\repository priv\\todoapi\\todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7C890C-97EA-4285-AC1A-13433630A348}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\controllers\\todoitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7C890C-97EA-4285-AC1A-13433630A348}|TodoApi\\TodoApi.csproj|c:\\users\\daniele nicoli\\onedrive - isis j.m.keynes\\repository priv\\todoapi\\todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7C890C-97EA-4285-AC1A-13433630A348}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7C890C-97EA-4285-AC1A-13433630A348}|TodoApi\\TodoApi.csproj|c:\\users\\daniele nicoli\\onedrive - isis j.m.keynes\\repository priv\\todoapi\\todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7C890C-97EA-4285-AC1A-13433630A348}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todocontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C7C890C-97EA-4285-AC1A-13433630A348}|TodoApi\\TodoApi.csproj|c:\\users\\daniele nicoli\\onedrive - isis j.m.keynes\\repository priv\\todoapi\\todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C7C890C-97EA-4285-AC1A-13433630A348}|TodoApi\\TodoApi.csproj|solutionrelative:todoapi\\models\\todoitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TodoItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\TodoApi\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Controllers\\TodoItemsController.cs",
+              "ToolTip": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\TodoApi\\TodoApi\\Controllers\\TodoItemsController.cs",
+              "RelativeToolTip": "TodoApi\\Controllers\\TodoItemsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:25:52.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\TodoApi\\TodoApi\\Program.cs",
+              "RelativeToolTip": "TodoApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:24:55.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TodoContext.cs",
+              "DocumentMoniker": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoContext.cs",
+              "ToolTip": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\TodoApi\\TodoApi\\Models\\TodoContext.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodoContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:23:12.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TodoItem.cs",
+              "DocumentMoniker": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeDocumentMoniker": "TodoApi\\Models\\TodoItem.cs",
+              "ToolTip": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\TodoApi\\TodoApi\\Models\\TodoItem.cs",
+              "RelativeToolTip": "TodoApi\\Models\\TodoItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-02T12:22:55.089Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

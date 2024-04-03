@@ -6,7 +6,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     fetchButton.addEventListener('click', () => {
         const barcode = barcodeInput.value;
-        fetch('https://world.openfoodfacts.net/api/v2/product/' + barcode + '/?fields=product_name,brands,quantity,image_url,ingredients')
+        fetch('https://it.openfoodfacts.org/api/v2/product/' + barcode + '/?fields=product_name,brands,quantity,image_url,ingredients')
             .then(response => {
                 if (response.status == 200) {
                     return response.json();

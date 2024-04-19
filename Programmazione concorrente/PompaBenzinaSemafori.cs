@@ -11,7 +11,7 @@ class Program
     {
         Console.WriteLine("La stazione di benzina è aperta: 2 pompe disponibili");
 
-        // Simulazione arrivo di 10 auto
+        // Simulazione arrivo di NUM_AUTO auto
         for (int i = 1; i <= NUM_AUTO; i++)
         {
             Thread auto = new Thread(new ParameterizedThreadStart(Rifornimento));

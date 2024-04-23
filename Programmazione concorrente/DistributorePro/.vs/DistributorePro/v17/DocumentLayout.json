@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\DistributorePro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5162EDED-10F2-49E2-8F33-BB20E3756A47}|DistributorePro\\DistributorePro.csproj|c:\\users\\daniele nicoli\\onedrive - isis j.m.keynes\\repository priv\\distributorepro\\distributorepro\\distributorebenzina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5162EDED-10F2-49E2-8F33-BB20E3756A47}|DistributorePro\\DistributorePro.csproj|solutionrelative:distributorepro\\distributorebenzina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5162EDED-10F2-49E2-8F33-BB20E3756A47}|DistributorePro\\DistributorePro.csproj|c:\\users\\daniele nicoli\\onedrive - isis j.m.keynes\\repository priv\\distributorepro\\distributorepro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5162EDED-10F2-49E2-8F33-BB20E3756A47}|DistributorePro\\DistributorePro.csproj|solutionrelative:distributorepro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DistributoreBenzina.cs",
+              "DocumentMoniker": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\DistributorePro\\DistributorePro\\DistributoreBenzina.cs",
+              "RelativeDocumentMoniker": "DistributorePro\\DistributoreBenzina.cs",
+              "ToolTip": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\DistributorePro\\DistributorePro\\DistributoreBenzina.cs",
+              "RelativeToolTip": "DistributorePro\\DistributoreBenzina.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAowD0AAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:29:56.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\DistributorePro\\DistributorePro\\Program.cs",
+              "RelativeDocumentMoniker": "DistributorePro\\Program.cs",
+              "ToolTip": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY PRIV\\DistributorePro\\DistributorePro\\Program.cs",
+              "RelativeToolTip": "DistributorePro\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-23T19:24:56.652Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\bin\Debug\net8.0\DistributorePro.exe
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\bin\Debug\net8.0\DistributorePro.deps.json
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\bin\Debug\net8.0\DistributorePro.runtimeconfig.json
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\bin\Debug\net8.0\DistributorePro.dll
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\bin\Debug\net8.0\DistributorePro.pdb
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\obj\Debug\net8.0\DistributorePro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\obj\Debug\net8.0\DistributorePro.AssemblyInfoInputs.cache
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\obj\Debug\net8.0\DistributorePro.AssemblyInfo.cs
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\obj\Debug\net8.0\DistributorePro.csproj.CoreCompileInputs.cache
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\obj\Debug\net8.0\DistributorePro.sourcelink.json
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\obj\Debug\net8.0\DistributorePro.dll
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\obj\Debug\net8.0\refint\DistributorePro.dll
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\obj\Debug\net8.0\DistributorePro.pdb
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\obj\Debug\net8.0\DistributorePro.genruntimeconfig.cache
+C:\Users\Daniele Nicoli\OneDrive - Isis J.M.Keynes\REPOSITORY PRIV\DistributorePro\DistributorePro\obj\Debug\net8.0\ref\DistributorePro.dll

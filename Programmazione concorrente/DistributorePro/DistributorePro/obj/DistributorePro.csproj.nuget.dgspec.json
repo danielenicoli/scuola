@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY\\scuola\\Programmazione concorrente\\DistributorePro\\DistributorePro\\DistributorePro.csproj": {}
+    "C:\\Users\\DanieleNicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY\\scuola\\Programmazione concorrente\\DistributorePro\\DistributorePro\\DistributorePro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY\\scuola\\Programmazione concorrente\\DistributorePro\\DistributorePro\\DistributorePro.csproj": {
+    "C:\\Users\\DanieleNicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY\\scuola\\Programmazione concorrente\\DistributorePro\\DistributorePro\\DistributorePro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY\\scuola\\Programmazione concorrente\\DistributorePro\\DistributorePro\\DistributorePro.csproj",
+        "projectUniqueName": "C:\\Users\\DanieleNicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY\\scuola\\Programmazione concorrente\\DistributorePro\\DistributorePro\\DistributorePro.csproj",
         "projectName": "DistributorePro",
-        "projectPath": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY\\scuola\\Programmazione concorrente\\DistributorePro\\DistributorePro\\DistributorePro.csproj",
-        "packagesPath": "C:\\Users\\Daniele Nicoli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Daniele Nicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY\\scuola\\Programmazione concorrente\\DistributorePro\\DistributorePro\\obj\\",
+        "projectPath": "C:\\Users\\DanieleNicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY\\scuola\\Programmazione concorrente\\DistributorePro\\DistributorePro\\DistributorePro.csproj",
+        "packagesPath": "C:\\Users\\DanieleNicoli\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\DanieleNicoli\\OneDrive - Isis J.M.Keynes\\REPOSITORY\\scuola\\Programmazione concorrente\\DistributorePro\\DistributorePro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Daniele Nicoli\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\DanieleNicoli\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [

@@ -26,6 +26,7 @@ class DistributoreBenzina
             bool rifornimentoCompletato = false;
             while (!rifornimentoCompletato)
             {
+                //mutex.WaitOne();
                 lock (bloccoCisterna)
                 {
                     if (benzinaDisponibile >= litriRichiesti)
@@ -36,6 +37,7 @@ class DistributoreBenzina
                         Console.WriteLine("Richiesta di: {0} litri \t Benzina rimanente: {1} litri, rifornimento effettuato", litriRichiesti, benzinaDisponibile);
                     }
                 }
+                //mutex.ReleaseMutex();
                 if (!rifornimentoCompletato)
                 {
                     Console.WriteLine("Richiesta di: {0} litri \t Benzina insufficiente: in attesa...", litriRichiesti);
